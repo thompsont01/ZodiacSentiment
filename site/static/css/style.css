@@ -97,6 +97,11 @@ html {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.note {
+  font-size: 24px;
+  letter-spacing: 5px;
+}
+
 
 @keyframes animStar {
   from {
