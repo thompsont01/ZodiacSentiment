@@ -7,3 +7,6 @@ We visualized this data on Tableau:
 https://public.tableau.com/profile/stephen.hong3109#!/vizhome/ZodiacTweetSentiments/Story1
 
 And are working on a consumer-friendly visualization
+
+A full explanationof our process can be found here:
+https://docs.google.com/presentation/d/1zVfezRj8TqOOkhWpw9HpLHEi8G6hOk1j9EkWpHmgnS4/edit#slide=id.g96f205c486_0_68
